@@ -254,8 +254,8 @@ paket-files/
 # Custom
 
 .DS_Store
-app/src/css
-app/src/**/*.js
-app/src/**/*.map
+web/app/src/css
+web/app/src/**/*.js
+web/app/src/**/*.map
 *.log
 wwwroot/
