@@ -2,7 +2,9 @@
 
 ## Prerequisites
 
-Python 2.7.x
+Python 2.7.x  
+Node >=6  
+NPM >=3  
 
 ## Installation
 
@@ -19,8 +21,6 @@ This will run a development version of the SPA with hot module reloding via webp
 
 ## Production build
 
-Although builing the Web project in Visual Studio will rebuild the wwwroot folder contents you can manually run this task via the command line
+Running the build will also run through the linter and run any tests that you have setup
 
 ```npm run build```
-
-Running the build will also run through the linter and run any tests that you have setup
